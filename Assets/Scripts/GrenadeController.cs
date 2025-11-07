@@ -16,4 +16,9 @@ public class GrenadeController : MonoBehaviour
     {
 
     }
+
+    void OnShoot()
+    {
+        Debug.Log("Patata");
+    }
 }
